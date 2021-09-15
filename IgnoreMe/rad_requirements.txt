@@ -1,0 +1,8 @@
+fastai
+prophet 
+numpy
+scipy
+nltk
+catboost
+pycaret
+sklearn
